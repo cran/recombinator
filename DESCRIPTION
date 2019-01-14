@@ -2,7 +2,7 @@ Package: recombinator
 Type: Package
 Title: Recombinate Nested Lists to Dataframes
 Description: Turns nested lists into data.frames in an orderly manner.
-Version: 1.0.0
+Version: 1.0.1
 Maintainer: Peter Hurford <peter@peterhurford.com>
 Authors@R: c(person("Peter", "Hurford", email = "peter@peterhurford.com", role = c("aut", "cre")),
              person("Robert", "Krzyzanowski",
@@ -14,8 +14,8 @@ Imports: stats, crayon
 Suggests: testthat
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-10-03 17:08:17 UTC; peter.hurford
+Packaged: 2019-01-14 22:32:55 UTC; peter.hurford
 Author: Peter Hurford [aut, cre],
   Robert Krzyzanowski [aut]
 Repository: CRAN
-Date/Publication: 2017-10-04 09:05:39 UTC
+Date/Publication: 2019-01-14 22:50:03 UTC
